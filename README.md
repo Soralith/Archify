@@ -56,8 +56,8 @@ sudo pacman -Syu yt-dlp mpv fzf ffmpeg
 ### 4. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/archify.git
-cd archify
+git clone https://github.com/Soralith/Archify.git
+cd Archify
 ```
 
 ### 5. Make scripts executable

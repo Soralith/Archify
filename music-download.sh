@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOWNLOAD_DIR="/home/sora/Music"
+DOWNLOAD_DIR="~/Music"
 mkdir -p "$DOWNLOAD_DIR"
 
 echo "Archify - Download music from Youtube with yt-dlp effortlessly."

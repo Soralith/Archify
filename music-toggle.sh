@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 if pgrep -f "mpv.*Music" > /dev/null; then
     pkill -f "mpv.*Music"
 else

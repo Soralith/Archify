@@ -124,7 +124,7 @@ $musicToggle = ~/.config/hypr/scripts/Music/music-toggle.sh
 * `$musicDownload` = path to `music-download.sh`, e.g.:
 
 ```bash
-$musicDownload = ~/.config/hypr/scripts/Music/music-download.sh
+$musicDownload = <your_terminal_apps> ~/.config/hypr/scripts/Music/music-download.sh
 ```
 
 * Make sure scripts are executable:
